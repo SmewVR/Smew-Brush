@@ -1,0 +1,5 @@
+/TextMesh Pro/
+# Except all files with a .c extension
+*.meta
+*.asset
+*.anim
