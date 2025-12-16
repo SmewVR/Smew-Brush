@@ -1,0 +1,4 @@
+/images/
+*.meta
+/prefabs/
+*.asset
